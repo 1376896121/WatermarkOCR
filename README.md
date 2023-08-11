@@ -1,4 +1,4 @@
-# OCRforWatermark
+# WatermarkOCR
 This is a simple work for my internship in TCL, 2023 August.
 可以实现从图片提取位于不同位置、不同颜色的水印。
 
